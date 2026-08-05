@@ -12,7 +12,7 @@ Until acceptance, cite the repository:
   title   = {Evaluation harness: {LLM-as-a-Judge} vs. objective factuality
              in {Indonesian} financial conversation summarisation},
   year    = {2026},
-  url     = {https://github.com/<user>/tci-eval-harness}
+  url     = {https://github.com/jonathanw33/llm-judge-factuality-eval}
 }
 ```
 
