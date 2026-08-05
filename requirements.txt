@@ -1,0 +1,8 @@
+# Core metrics
+numpy>=1.24
+krippendorff>=0.6
+
+# metrics/factuality.py only
+torch>=2.0
+transformers>=4.35
+nltk>=3.8
