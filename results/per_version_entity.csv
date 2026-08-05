@@ -1,0 +1,13 @@
+rank,version,model,strategy,recall,precision,f1
+1,V11,GLM 5.1,Simple,0.632,0.906,0.745
+2,V9,Gemini 3 Flash,Simple,0.603,0.855,0.708
+3,V12,DeepSeek V3.1,Simple,0.564,0.947,0.707
+4,V10,Gemma 4 31B,Simple,0.554,0.935,0.696
+5,V8,Kimi K2.5,Simple,0.554,0.909,0.688
+6,V5,GLM 5.1,NLP,0.531,0.894,0.666
+7,V3,Gemini 3 Flash,NLP,0.521,0.897,0.659
+8,V4,Gemma 4 31B,NLP,0.493,0.941,0.647
+9,V2,Kimi K2.5,NLP,0.475,0.944,0.632
+10,V1,GPT-OSS 120B,NLP,0.457,0.935,0.614
+11,V7,GPT-OSS 120B,Simple,0.44,0.904,0.592
+12,V6,DeepSeek V3.1,NLP,0.428,0.92,0.584

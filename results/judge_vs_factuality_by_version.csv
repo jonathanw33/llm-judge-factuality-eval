@@ -1,0 +1,13 @@
+version,model,strategy,n,mean_judge_score,mean_factuality,judge_rank,factuality_rank
+V1,GPT-OSS 120B,NLP,50,6.55,0.57,11,3
+V2,Kimi K2.5,NLP,50,7.24,0.444,9,12
+V3,Gemini 3 Flash,NLP,50,7.43,0.472,8,10
+V4,Gemma 4 31B,NLP,49,6.92,0.531,10,6
+V5,GLM 5.1,NLP,50,7.62,0.483,7,9
+V6,DeepSeek V3.1,NLP,50,6.1,0.552,12,5
+V7,GPT-OSS 120B,Simple,50,7.67,0.602,5,1
+V8,Kimi K2.5,Simple,50,7.9,0.498,3,8
+V9,Gemini 3 Flash,Simple,49,8.41,0.466,2,11
+V10,Gemma 4 31B,Simple,50,7.82,0.578,4,2
+V11,GLM 5.1,Simple,48,8.71,0.526,1,7
+V12,DeepSeek V3.1,Simple,50,7.64,0.564,6,4

@@ -1,0 +1,7 @@
+judge,n_scores,mean_score,self_enhancement
+Gemma 4 31B,538,8.59,+1.51
+Gemini 3 Flash,704,7.98,+0.84
+DeepSeek V3.1,480,7.39,<=0.3
+GPT-OSS 120B,648,7.32,<=0.3
+Kimi K2.5,600,7.31,<=0.3
+GLM 5.1,633,7.18,<=0.3

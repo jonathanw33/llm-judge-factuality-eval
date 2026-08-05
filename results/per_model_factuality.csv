@@ -1,0 +1,7 @@
+model,n,mean_factuality,rank
+DeepSeek V3.1,141,0.552,1
+GPT-OSS 120B,166,0.549,2
+Gemma 4 31B,170,0.531,3
+GLM 5.1,156,0.472,4
+Gemini 3 Flash,142,0.447,5
+Kimi K2.5,168,0.438,6
